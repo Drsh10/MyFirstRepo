@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    printf("Welcone to Software Engineering Program");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
